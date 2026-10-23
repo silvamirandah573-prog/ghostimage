@@ -1,9 +1,9 @@
 name: GhostImage
 summary: "Esconda segredos em imagens comuns."
 description: >-
-  O GhostImage é uma ferramenta de esteganografia 100% offline. Esconda
-  mensagens criptografadas em fotos e compartilhe com segurança.
+  O GhostImage é uma ferramenta de esteganografia 100% offline. Esconda mensagens criptografadas em fotos e compartilhe com segurança.
 repository: https://github.com/silvamirandah573-prog/ghostimage
 release_source: ./app/build/outputs/apk/release/app-release.apk
 icon: ./app/src/main/res/drawable-nodpi/ic_ghost_minimal_b.png
 metadata_sources: []
+pubkey: npub1a008nhz06d2jpqvulqy2prnwn4lc4yg4mrs8muf0dtxk57xlmyusst5327
